@@ -1,0 +1,9 @@
+|first
+x1 => y0.IN0
+x2 => y0.IN1
+x3 => y0.IN1
+x4 => y0.IN0
+x5 => y0.IN1
+y0 <= y0.DB_MAX_OUTPUT_PORT_TYPE
+
+
